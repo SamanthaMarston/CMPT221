@@ -10,3 +10,13 @@ def sample_signup_input():
             'PhoneNumber': '1234567891', 
             'Password': 'mypassword'
             }
+
+
+if sample_signup_input != {'FirstName': 'Calista', 
+            'LastName': 'Phippen', 
+            'Email': 'calista.phippen1@marist.edu', 
+            'PhoneNumber': '1234567891', 
+            'Password': 'mypassword'}:
+    pytest.fail("somthing is not right")
+else:
+    print("signing you in")
