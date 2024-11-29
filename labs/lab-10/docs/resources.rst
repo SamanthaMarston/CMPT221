@@ -6,40 +6,40 @@ This section describes class and functions private to <application-name>. It is 
 
 labs.lab-1
 ----------
-<Short description of Lab 1>
+<how to turn in a lab>
 
 labs.lab-2
 ----------
-<Short description of Lab 2>
+<instaling bash, how to create a virtual reality>
 
 labs.lab-3
 ----------
-<Short description of Lab 3>
+<instaling admin4 amd SQL>
 
 labs.lab-4
 ----------
-<Short description of Lab 4>
+<SQL queres>
 
 labs.lab-5
 ----------
-<Short description of Lab 5>
+<bulding a a bad html desine>
 
 labs.lab-6
 ----------
-<Short description of Lab 6>
+<HTML applacatons and desining a GUI>
 
 labs.lab-7
 ----------
-<Short description of Lab 7>
+<Input validation, sanitization, error handling, & logging>
 
 labs.lab-8
 ----------
-<Short description of Lab 8>
+<using javascript>
 
 labs.lab-9
 ----------
-<Short description of Lab 9>
+<testing for bugs>
 
 labs.lab-10
 -----------
-<Short description of Lab 10>
+<documentaton >
